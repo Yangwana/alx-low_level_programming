@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * _isupper - check the code for Holberton School students.
- *@c : variable
- * Return: 0 or 1 .
+ * _isupper - checks for uppercase character
+ *  @c: input that is going to be checked
+ * Return: 1 if @c is uppercase, otherwise 0
  */
 int _isupper(int c)
 {

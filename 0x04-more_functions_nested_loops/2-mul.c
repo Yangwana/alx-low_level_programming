@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * mul - check the code for Holberton School students.
- *@a : variable
- *@b : variable
- * Return: 0 or 1 .
+ * mul - multiplies two integers
+ * @a: multiplies with @b
+ * @b: multiplies with @a
+ * Return: multiplication of @a and @b
  */
 int mul(int a, int b)
 {
